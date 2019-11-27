@@ -14,14 +14,14 @@ Bases utilizadas para o estudo:<p>
 
 # Resultados Colhidos
 
-## Comparativo: Vocação
+## Vocação
 
 <div align="center">
     <img src="./Vocacao.png" width="640" />
     <div height="2"></div>
 </div>
 
-## Comparativo: Não pretende dar aulas
+## Não pretende dar aulas
 
 <div align="center">
     <img src="./NaoLecionara.png" width="640" />
